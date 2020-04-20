@@ -48,7 +48,6 @@ $(document).ready(function(){
       // もし「averageIndicate」が40以上なら"C"を返します。
     } else if ( averageIndicate >= 70) {
       return "C";
-    }
       // もし「averageIndicate」がそれ以外の点数なら"D"を返します。
     } else {
       return "D";
